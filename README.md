@@ -11,6 +11,16 @@ https://github.com/geduldig/TwitterAPI<BR>
 ###Analisis de los datos de Twitter
 
 
+###Programas utilizados
+* R 3.2.2 - Version 3.2.2 (2015-08-14) -- "Fire Safety" for Mac OS X 10.9 (Mavericks) and higher
+* RStudio - Version 0.99.489 – © 2009-2015 RStudio, Inc.
+* R Packages: tm = Text Mining for R (https://cran.r-project.org/web/packages/tm/vignettes/tm.pdf)
+* Python 
+
+###App creado por mi en el Twitter para cojer los datos
+https://apps.twitter.com/app/8537856
+
+
 ### Trabajos de Analisis de Sentimiento hechos en Universidades Brasileñas
 Análise de sentimento de tweets com foco em notícias<BR>
 http://www.imago.ufpr.br/csbc2012/anais_csbc/eventos/brasnam/artigos/BRASNAM%20-%20Analise%20de%20sentimento%20de%20tweets%20com%20foco%20em%20noticias.pdf<BR>
