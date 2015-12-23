@@ -45,6 +45,6 @@ An Introduction to Text Mining using Twitter Streaming API and Python<BR>
 http://adilmoujahid.com/posts/2014/07/twitter-analytics/<BR>
 https://github.com/adilmoujahid/Twitter_Analytics/blob/master/analyze_tweets.py<BR>
 
-In a Single Tweet, as Many Pieces of Metadata as There Are Characters
+###In a Single Tweet, as Many Pieces of Metadata as There Are Characters
 http://blogs.wsj.com/digits/2014/06/06/in-a-single-tweet-as-many-pieces-of-metadata-as-there-are-characters/
 http://online.wsj.com/public/resources/documents/TweetMetadata.pdf
