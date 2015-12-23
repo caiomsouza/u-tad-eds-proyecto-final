@@ -22,10 +22,10 @@ https://apps.twitter.com/app/8537856
 
 
 ### Trabajos de Analisis de Sentimiento hechos en Universidades Brasileñas
-Análise de sentimento de tweets com foco em notícias<BR>
+Análise de sentimento de tweets com foco em notícias<BR>
 http://www.imago.ufpr.br/csbc2012/anais_csbc/eventos/brasnam/artigos/BRASNAM%20-%20Analise%20de%20sentimento%20de%20tweets%20com%20foco%20em%20noticias.pdf<BR>
 
-Análise de Sentimento de Tweets Relacionados aos Protestos que ocorreram no Brasil entre Junho e Agosto de 2013<BR>
+Análise de Sentimento de Tweets Relacionados aos Protestos que ocorreram no Brasil entre Junho e Agosto de 2013<BR>
 http://www.each.usp.br/digiampietri/BraSNAM/2014/p11.pdf<BR>
 
 Biocom Usp: Tweet Sentiment Analysis with Adaptive Boosting Ensemble<BR>
@@ -45,7 +45,6 @@ An Introduction to Text Mining using Twitter Streaming API and Python<BR>
 http://adilmoujahid.com/posts/2014/07/twitter-analytics/<BR>
 https://github.com/adilmoujahid/Twitter_Analytics/blob/master/analyze_tweets.py<BR>
 
-
-
-
-
+In a Single Tweet, as Many Pieces of Metadata as There Are Characters
+http://blogs.wsj.com/digits/2014/06/06/in-a-single-tweet-as-many-pieces-of-metadata-as-there-are-characters/
+http://online.wsj.com/public/resources/documents/TweetMetadata.pdf
