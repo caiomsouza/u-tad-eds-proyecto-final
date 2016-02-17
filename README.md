@@ -12,5 +12,8 @@ https://github.com/caiomsouza/TwitterRawData<BR>
 El PDF del trabajo se encuentra en el enlace:<BR>
 
 
+###Los códigos del proyecto
+Se encuentra en mi cuenta de https://github.com/caiomsouza/u-tad-eds-proyecto-final los códigos utilizados para el trabajo y pueden ser utilizado de forma libre.
+
 
 

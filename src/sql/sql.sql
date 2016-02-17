@@ -1,0 +1,16 @@
+SELECT `tweets`.`id`,
+    `tweets`.`created`,
+    `tweets`.`text`,
+    `tweets`.`screen_name`,
+    `tweets`.`name`,
+    `tweets`.`mention1`,
+    `tweets`.`mention2`,
+    `tweets`.`hashtag1`,
+    `tweets`.`hashtag2`,
+    `tweets`.`url1`,
+    `tweets`.`url2`,
+    `tweets`.`lat`,
+    `tweets`.`lon`,
+    `tweets`.`place_name`,
+    `tweets`.`place_type`
+FROM `twitterdb`.`tweets`;

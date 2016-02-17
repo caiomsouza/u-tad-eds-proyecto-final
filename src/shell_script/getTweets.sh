@@ -1,0 +1,1 @@
+curl --get 'https://stream.twitter.com/1.1/statuses/filter.json' --data 'track=dilma' --header 'Authorization: OAuth oauth_consumer_key="", oauth_nonce="", oauth_signature="", oauth_signature_method="HMAC-SHA1", oauth_timestamp="1450642501", oauth_token="", oauth_version="1.0"' --verbose > tweets.js
